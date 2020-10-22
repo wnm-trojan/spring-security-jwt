@@ -1,3 +1,11 @@
+/*
+"""
+    @author - Waruna Nissanka
+    @email - warunanissanka44@gmail.com
+    @project - JWT Spring Security
+    @Description - User Deatails Service
+"""
+*/
 package io.wnm.springsecurityjwt.services;
 
 import org.springframework.security.core.userdetails.User;
